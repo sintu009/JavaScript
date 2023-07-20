@@ -2,6 +2,7 @@ let a = 5;
 let b = a;
 
 b = a + 5;
+c = a + 5;
 
 
 
